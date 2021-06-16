@@ -1,2 +1,2 @@
-# MinTrak
-Supply Chain Commodity Tracker
+# commidity-tracker
+
